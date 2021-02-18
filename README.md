@@ -24,6 +24,12 @@ Notite pentru TAPI
 
 - Indigo: #791CF8, (121, 28, 248)
 - Portocaliu: #ED7F10, (237, 127, 16)
+- Olive/masliniu: #808000, (154, 185, 115)
+
+### Unelte
+- https://www.color-blindness.com/color-name-hue/ - site pentru identificat denumirea la culori
+- https://ro.wikipedia.org/wiki/List%C4%83_de_culori
+- https://www.w3schools.com/colors/colors_names.asp 
 
 ## Filtre
 
