@@ -67,10 +67,50 @@ Notite pentru TAPI
 	- armonica
 	- contra-armonica
 	- putere
-### Adaptive - Curs 7
+## Adaptive - Curs 7
 - MMSE
 - DW-MTM
 - ATF ( $\alpha$-trimmed filter)
 
-     
+## Modificare rezolutiei - Curs 9
+#### Cresterea rezolutiei
+1. Cresterea rezolutiei prin replicare
+	1. Replicare
+	2. Netezire
+2. Intretesare cu linii si coloane nule
+	1. Intretesere
+	2. Netezire
+#### Reducerea rezolutiei
+1. Selectarea intretesuta a informatiei
+2. Reducerea selectiva
+	1. Mediere
+	2. Selectie
 
+##  Transformata Karhunen-Loeve - Curs 10
+1. Algoritmul Karhunen-Loeve binar
+2. Transformarea Karhunen-Loeve monocroma
+
+## Transformata Fourier - Curs 11
+- transformata fourier
+- serii fourier
+- complex unidimensionala
+- imagini digitale monocrome
+- fourier inversa
+- eliminarea frecventelor inalte/joase 
+- filtre liniare
+- recunoastere de forme
+
+## Stenografie - Curs 12
+### LSB
+- forma simpla
+- forma extinsa
+
+## Fuzzy - Curs 13
+1. Logica adevarului nuantat
+2. Utilizare in amelioararea contrastului
+	- transformarea liniara
+	- transformarea sigmoidala
+3. Utilizare in netezirea adaptiva
+
+## SVD - Curs 14
+ - Metode de descompunere
