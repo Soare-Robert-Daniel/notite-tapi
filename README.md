@@ -35,7 +35,7 @@ Notite pentru TAPI
 
 ### Liniare - Curs 5
 
-- intregrale
+- integrale
 	- Median uniform
 	- Gaussian
 - diferentiale
@@ -49,6 +49,28 @@ Notite pentru TAPI
 	- Kirsch
 - indepartarea zgomotelor punctuale - salt and pepper
 	- filtre the tip Laplace
+
+### Neliniare - Curs 6
+- statistice
+	- medie
+	- median neliniar
+	- media extremelor
+	- min
+	- max
+	- $\alpha$-median
+	- $\alpha$-complementar
+	- range
+	- quasi-range
+	- dispersion-edge
+- medie si putere
+	- geometrica
+	- armonica
+	- contra-armonica
+	- putere
+### Adaptive - Curs 7
+- MMSE
+- DW-MTM
+- ATF ( $\alpha$-trimmed filter)
 
      
 
